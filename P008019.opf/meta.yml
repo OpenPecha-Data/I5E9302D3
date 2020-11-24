@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1884
   title: བརྡའི་བྱེ་བྲག་རྣམ་པར་ཕྱེ་བའི་ཚིག་ལེའུར་བྱས་པ་སྨྲ་བའི་རྒྱན
-  volume: ''
+  volume:
+    f4ef95506958469f96ff3731777aa741:
+      image_group_id: I1CZ1979
+      title: Volume 1 of brda'i bye brag rnam par phye ba'i tshig le'ur byas pa smra
+        ba'i rgyan
+      volume_number: 1
+      total_pages: 80
   author: ''
+ebook_metadata:
+  title: བརྡའི་བྱེ་བྲག་རྣམ་པར་ཕྱེ་བའི་ཚིག་ལེའུར་བྱས་པ་སྨྲ་བའི་རྒྱན
+  author: ''
+  sku: P008019
+  cover: cover.jpg
+  layers:
+  - pagination
